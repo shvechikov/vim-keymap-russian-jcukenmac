@@ -88,8 +88,8 @@ m	ь	CYRILLIC SMALL LETTER SOFT SIGN
 .	ю	CYRILLIC SMALL LETTER YU
 z	я	CYRILLIC SMALL LETTER YA
 @	"
-#	'
-$	*
+#	№
+$	%
 %	:
 ^	,
 &	.
